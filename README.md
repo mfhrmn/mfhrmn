@@ -6,7 +6,7 @@
 - ⚡ Fun fact: My 3x3 Rubik's cube pb is 9.9s and i hit the gym almost every day while solving it.
 
 ### 📫 Contact Me
-- LinkedIn: [https://www.linkedin.com/in/muammar-fathurrahman-sahib-4728aa350/](#)
+- LinkedIn: [https://www.linkedin.com/in/mfhrmn](#)
 - Email: [mfhrmn@gmail.com](#)
 
 ### 🛠️ Tech Stack
