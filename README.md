@@ -1,21 +1,26 @@
-# 👋 Hi, I’m @mfhrmn 
-### 🚀 About Me
-🎓 Fresh graduate in Electrical & Automation Engineering  
-⚡ Interested in IoT, control systems, and industrial automation  
+# Hi, I'm Fathurrahman 👋
 
-### 📫 Contact Me
-- LinkedIn: [https://www.linkedin.com/in/mfhrmn](#)
-- Email: [mfhrmn@gmail.com](#)
+🎓 Fresh graduate in **Electrical & Automation Engineering**  
+⚡ Focused on **IoT, control systems, and industrial automation**  
+🔧 Love building projects that connect hardware, software, and data  
 
-### 🛠️ Tech Stack
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino)
+---
 
-### 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfhrmn&show_icons=true&theme=tokyonight)
-<!---
-mfhrmn/mfhrmn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔥 Featured Projects
+-
+-
+-
+
+---
+
+## 🛠️ Skills & Tools
+- **Programming**: Python, C/C++, Ladder Logic  
+- **Hardware**: PLC, ESP32, Arduino, Raspberry Pi 
+- **Tools**: MATLAB, SCADA, VS Code
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: [your-link](https://www.linkedin.com/in/mfhrmn/)
+- GitHub: [yourusername](https://github.com/mfhrmn)  
+- Email: mfhrmn@email.com  
