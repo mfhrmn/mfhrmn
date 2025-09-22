@@ -21,6 +21,6 @@
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: [your-link](https://www.linkedin.com/in/mfhrmn/)
-- GitHub: [yourusername](https://github.com/mfhrmn)  
+- LinkedIn: [linkedin.com/in/mfhrmn](https://www.linkedin.com/in/mfhrmn/)
+- GitHub: [mfhrmn](https://github.com/mfhrmn)  
 - Email: mfhrmn@email.com  
