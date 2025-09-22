@@ -1,4 +1,4 @@
-# Hi, I'm Fathurrahman 👋
+# Hi, I'm @mfhrmn 👋
 
 🎓 Fresh graduate in **Electrical & Automation Engineering**  
 ⚡ Focused on **IoT, control systems, and industrial automation**  
