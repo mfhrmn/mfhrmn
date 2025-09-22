@@ -8,7 +8,7 @@
 
 ## 🔥 Featured Projects
 - [EV Hybrid Charger Station](https://github.com/mfhrmn/ev-hybrid-charger-station) – Designed the electrical system for a renewable-energy-based hybrid charging station prototype  
-- [IoT Data Acquisition System](https://github.com/mfhrmn/iot-data-acquisition) – Developed an ESP32-based IoT system to collect and log sensor data from an electric trail bike  
+- [IoT Data Acquisition System](https://github.com/mfhrmn/iot-data-acquisition-system) – Developed an ESP32-based IoT system to collect and log sensor data from an electric trail bike  
 - [Automatic Water Conditioning System](https://github.com/mfhrmn/automatic-water-conditioning-system) – Designed and implemented an automatic system to maintain desired **water temperature and level** using **Raspberry Pi Pico** and **MicroPython**. Integrated sensor feedback with control algorithms to regulate heating and water inflow/outflow for stable operation.
 
 
