@@ -1,7 +1,7 @@
 # Hi, I'm @mfhrmn 👋  
 
 🎓 Fresh graduate in **Electrical Engineering**  
-⚡ Focused on **programming, IoT systems, control engineering, and industrial automation**  
+⚙️ Focused on **programming, IoT systems, control engineering, and industrial automation**  
 🔧 Passionate about building solutions that integrate **hardware, software, and data**  
 
 ---
