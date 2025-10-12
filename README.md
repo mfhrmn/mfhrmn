@@ -15,11 +15,11 @@ Focus: Automation, Control Systems, Embedded Systems, Robotics
 
 ### 🔧 **Ongoing Projects:**
 
+Currently, I am exploring new projects in **automation** and **control systems**. I'll update this section with more exciting developments soon. Stay tuned! 🚀  
 
 ## 💻 Programming Projects
-- 
+ 
 ### 🔧 **Ongoing Projects:**
-Currently, I am exploring new projects in **automation** and **control systems**. I'll update this section with more exciting developments soon. Stay tuned! 🚀  
 
 1. **[Hyprland & Thinkpad Rice](https://github.com/mfhrmn/HyprThink)**  
    - **Description**: A personalized **Hyprland** configuration for **Linux** users, featuring a **ThinkPad-inspired** color scheme and custom optimizations specifically designed for ThinkPad laptops. This configuration aims to improve both aesthetics and performance on ThinkPad devices while providing a smooth user experience with **Wayland**.
