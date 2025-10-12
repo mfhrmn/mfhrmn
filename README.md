@@ -1,10 +1,12 @@
 # Hi, I'm @mfhrmn 👋  
+## About Me
+Hi there! I'm a Bachelor of Science in Electrical Engineering graduate with a specialization in Automation and Control Systems. I’m passionate about creating solutions that automate processes, improve efficiency, and push the boundaries of industrial control.
+I’m constantly exploring new technologies, refining my skills in system modeling, control theory, and automation algorithms to develop practical solutions to real-world problems.
 
-🎓 Fresh graduate in **Electrical Engineering**  
-⚙️ Focused on **programming, IoT systems, control engineering, and industrial automation**  
-🔧 Passionate about building solutions that integrate **hardware, software, and data**  
-
----
+## Education 🎓
+Bachelor of Science in Electrical Engineering
+Politeknik Negeri Bandung | Graduated : 2025
+Focus: Automation, Control Systems, Embedded Systems, Robotics
 
 ## ⚡ Electrical & Automation Projects
 - [EV Hybrid Charger Station](https://github.com/mfhrmn/ev-hybrid-charger-station) – Designed the electrical system for a renewable-energy-based hybrid charging station prototype  
