@@ -4,8 +4,8 @@ Hi there! I'm a Bachelor of Science in Electrical Engineering graduate with a sp
 I’m constantly exploring new technologies, refining my skills in system modeling, control theory, and automation algorithms to develop practical solutions to real-world problems.
 
 ## Education 🎓
-Bachelor of Science in Electrical Engineering
-Politeknik Negeri Bandung | Graduated : 2025
+**Bachelor of Science in Electrical Engineering**  
+Politeknik Negeri Bandung | Graduated : 2025  
 Focus: Automation, Control Systems, Embedded Systems, Robotics
 
 ## ⚡ Electrical & Automation Projects
