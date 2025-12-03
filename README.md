@@ -13,19 +13,6 @@ Focus: Automation, Control Systems, Embedded Systems, Robotics
 - [IoT Data Acquisition System](https://github.com/mfhrmn/iot-data-acquisition-system) – Developed an ESP32-based IoT system to collect and log sensor data from an electric trail bike  
 - [Automatic Water Conditioning System](https://github.com/mfhrmn/automatic-water-conditioning-system) – Designed and implemented an automatic system to maintain desired **water temperature and level** using **Raspberry Pi Pico** and **MicroPython**. Integrated sensor feedback with control algorithms to regulate heating and water inflow/outflow for stable operation
 
-### 🔧 **Ongoing Projects:**
-
-Currently, I am exploring new projects in **automation** and **control systems**. I'll update this section with more exciting developments soon. Stay tuned! 🚀  
-
-## 💻 Programming Projects
- 
-### 🔧 **Ongoing Projects:**
-
-1. **[Hyprland & Thinkpad Rice](https://github.com/mfhrmn/HyprThink)**  
-   - **Description**: A personalized **Hyprland** configuration for **Linux** users, featuring a **ThinkPad-inspired** color scheme and custom optimizations specifically designed for ThinkPad laptops. This configuration aims to improve both aesthetics and performance on ThinkPad devices while providing a smooth user experience with **Wayland**.
-   - **Technologies**: **Hyprland**, **Wayland**, **Linux**, **Bash Scripting**, **GTK**
-   - **Status**: Ongoing | *Active development, regular updates for compatibility and performance tweaks*
-
 ---
 
 ## 🛠️ Skills & Tools  
