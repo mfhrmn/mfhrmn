@@ -6,7 +6,7 @@ I’m constantly exploring new technologies, refining my skills in system modeli
 ## Education 🎓
 **Bachelor of Science in Electrical Engineering**  
 Politeknik Negeri Bandung | Graduated : 2025  
-Focus: Automation, Control Systems, Embedded Systems, Robotics
+Focus: Automation, Electrical & Control Systems, Embedded Systems, Robotics
 
 ## ⚡ Electrical & Automation Projects
 - [EV Hybrid Charger Station](https://github.com/mfhrmn/ev-hybrid-charger-station) – Designed the electrical system for a renewable-energy-based hybrid charging station prototype  
@@ -25,14 +25,24 @@ Focus: Automation, Control Systems, Embedded Systems, Robotics
 ### Electrical Engineering & Automation 
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-00A1E4?style=for-the-badge\&logo=labview\&logoColor=white)   ![Simulink](https://img.shields.io/badge/Simulink-00A0B0?style=for-the-badge\&logo=mathworks\&logoColor=white)   ![Altium Designer](https://img.shields.io/badge/Altium%20Designer-0033A0?style=for-the-badge\&logo=altiumdesigner\&logoColor=white)   ![KiCad](https://img.shields.io/badge/KiCad-324F17?style=for-the-badge\&logo=kicad\&logoColor=white)   ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)   ![Autodesk Eagle](https://img.shields.io/badge/Autodesk%20Eagle-F9A800?style=for-the-badge\&logo=autodesk\&logoColor=white)   ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)   ![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge&logo=espressif&logoColor=white)   ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)   ![PLC](https://img.shields.io/badge/PLC-Automation-green?style=for-the-badge)  
 ### PLCs (Programmable Logic Controllers) 
-![Siemens PLC](https://img.shields.io/badge/Siemens%20PLC-009EE0?style=for-the-badge\&logo=siemens\&logoColor=white)   ![Mitsubishi Electric](https://img.shields.io/badge/Mitsubishi%20Electric-4C9FD6?style=for-the-badge\&logo=mitsubishielectric\&logoColor=white)   ![Schneider Electric](https://img.shields.io/badge/Schneider%20Electric-008C45?style=for-the-badge\&logo=schneider-electric\&logoColor=white)
+### PLCs (Programmable Logic Controllers) 
+![Siemens PLC](https://img.shields.io/badge/Siemens%20PLC-009EE0?style=for-the-badge&logo=siemens&logoColor=white) 
+![Mitsubishi Electric](https://img.shields.io/badge/Mitsubishi%20Electric-4C9FD6?style=for-the-badge&logo=mitsubishielectric&logoColor=white) 
+![Schneider Electric](https://img.shields.io/badge/Schneider%20Electric-008C45?style=for-the-badge&logo=schneider-electric&logoColor=white) 
+![Omron](https://img.shields.io/badge/Omron-005BAC?style=for-the-badge&logo=omron&logoColor=white)
 ### Instrumentation & Measurement 
-![Oscilloscope](https://img.shields.io/badge/Oscilloscope-2D92C9?style=for-the-badge\&logo=fluke\&logoColor=white) 
+![Oscilloscope](https://img.shields.io/badge/Oscilloscope-2D92C9?style=for-the-badge&logo=fluke&logoColor=white) 
+![Multimeter](https://img.shields.io/badge/Multimeter-555555?style=for-the-badge) 
+![Voltmeter](https://img.shields.io/badge/Voltmeter-3E8EDE?style=for-the-badge) 
+![Ohmmeter](https://img.shields.io/badge/Ohmmeter-6A1B9A?style=for-the-badge)
 ### Automation/SCADA Tools 
 ![Wonderware](https://img.shields.io/badge/Wonderware-006A8E?style=for-the-badge\&logo=schneider-electric\&logoColor=white)   ![WinCC](https://img.shields.io/badge/WinCC-72B1A1?style=for-the-badge\&logo=siemens\&logoColor=white)
 ### Communication Protocols (Industrial) 
 ![Modbus](https://img.shields.io/badge/Modbus-005D6E?style=for-the-badge\&logo=modbus\&logoColor=white)   ![OPC UA](https://img.shields.io/badge/OPC%20UA-005D59?style=for-the-badge\&logo=opc-foundation\&logoColor=white)   ![Profibus](https://img.shields.io/badge/Profibus-003E74?style=for-the-badge\&logo=profibus\&logoColor=white)   ![Ethernet/IP](https://img.shields.io/badge/Ethernet%2FIP-0078D4?style=for-the-badge\&logo=ethernet\&logoColor=white)
-
+### 3D / CAD & Mechanical Design
+![SolidWorks](https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=dassaultsystemes&logoColor=white) 
+![Rhino 8](https://img.shields.io/badge/Rhino%208-000000?style=for-the-badge&logo=rhinoceros&logoColor=white) 
+![AutoCAD](https://img.shields.io/badge/AutoCAD-D32F2F?style=for-the-badge&logo=autodesk&logoColor=white)
 
 
 
