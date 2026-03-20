@@ -1,7 +1,8 @@
 # Hi, I'm @mfhrmn 👋  
 ## About Me
-Hi there! I'm a Bachelor of Science in Electrical Engineering graduate with a specialization in Automation and Control Systems. I’m passionate about creating solutions that automate processes, improve efficiency, and push the boundaries of industrial control.    
-I’m constantly exploring new technologies, refining my skills in system modeling, control theory, and automation algorithms to develop practical solutions to real-world problems.
+Industrial Automation Engineering graduate with a strong foundation in control systems, embedded systems, and industrial automation. Experienced in developing PLC/SCADA-based solutions, IoT data acquisition systems, and sensor-integrated control applications.
+
+Focused on applying engineering principles to build efficient, reliable, and scalable systems, with ongoing interest in control theory, system modeling, and real-world automation challenges.
 
 ## Education 🎓
 **Bachelor of Applied Science in Electrical Engineering**  
