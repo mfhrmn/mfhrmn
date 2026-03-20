@@ -1,6 +1,6 @@
 # Hi, I'm @mfhrmn 👋  
 ## About Me
-Industrial Automation Engineering graduate with a strong foundation in control systems, embedded systems, and industrial automation. Experienced in developing PLC/SCADA-based solutions, IoT data acquisition systems, and sensor-integrated control applications.
+Industrial Automation Engineering graduate with a strong foundation in electrical & control systems, embedded systems, and industrial automation. Experienced in developing PLC/SCADA-based solutions, IoT data acquisition systems, and sensor-integrated control applications.
 
 Focused on applying engineering principles to build efficient, reliable, and scalable systems, with ongoing interest in control theory, system modeling, and real-world automation challenges.
 
