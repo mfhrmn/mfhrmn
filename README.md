@@ -28,11 +28,9 @@ My work focuses on building practical solutions for monitoring, control, simulat
 - [Automatic Water Conditioning System](https://github.com/mfhrmn/automatic-water-conditioning-system) – Charging infrastructure project integrating renewable and grid-based power sources.
 
 ## Software Projects
-- **OribotStudio**
-  Offline robot programming and simulation platform for path authoring, export preparation, and 3D motion validation.
+- **OribotStudio** - Offline robot programming and simulation platform for path authoring, export preparation, and 3D motion validation.
 
-- **OriPad**
-  SCADA/HMI application for industrial robot supervision, telemetry monitoring, and limited runtime control.
+- **OriPad** - SCADA/HMI application for industrial robot supervision, telemetry monitoring, and limited runtime control.
     
 ## Interests
 - Industrial robotics
